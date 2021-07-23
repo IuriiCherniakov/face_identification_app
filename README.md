@@ -1,2 +1,2 @@
-Simple face identification app
+Simple face identification app,
 Run with Live Server (VS code)
